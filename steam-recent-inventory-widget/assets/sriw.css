@@ -1,0 +1,4 @@
+.sriw-list{list-style:none;margin:0;padding:0}
+.sriw-item{display:flex;align-items:center;margin:6px 0;padding-bottom:6px;border-bottom:1px solid rgba(255,255,255,0.2)}
+.sriw-item img{width:32px;height:32px;margin-right:8px;object-fit:contain;border-radius:4px}
+.sriw-title{margin-bottom:6px;font-weight:bold}
